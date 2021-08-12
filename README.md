@@ -1,6 +1,5 @@
 
 # ex1-collaborating
-d
 
 ## Biography
 
